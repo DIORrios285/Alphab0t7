@@ -27,7 +27,7 @@
 
 **Click Deploy**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Alphab0t7/tree/V14)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Alphab0t7/tree/v14)
 
 
 
